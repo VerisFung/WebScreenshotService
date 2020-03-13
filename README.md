@@ -1,0 +1,2 @@
+# WebScreenshotService
+基于PhantomJS的网站截图服务API设计与开发
